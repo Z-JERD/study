@@ -1,0 +1,31 @@
+模板之家：http://www.cssmoban.com/tags.asp?page=2&n=%E5%90%8E%E5%8F%B0
+Jquery：http://jquery.cuishifeng.cn/
+Bootstrap：https://v3.bootcss.com/index.html
+RGB颜色对比：http://www.114la.com/other/rgb.html
+vue脚手架 https://segmentfault.com/a/1190000014094732
+vue https://cn.vuejs.org/v2/guide
+Axios：https://www.kancloud.cn/yunye/axios/234845
+字体图标：http://www.fontawesome.com.cn/
+css：http://www.cnblogs.com/liwenzhou/p/7999532.html
+mysql：http://www.cnblogs.com/wangfengming/p/8143554.html
+面向对象：http://www.cnblogs.com/Eva-J/p/7277026.html
+小马哥：http://www.cnblogs.com/majj/
+日天：http://www.cnblogs.com/yuanchenqi/category/1201330.html
+小猪：https://www.cnblogs.com/wupeiqi/articles/6229292.html
+鱼：https://www.cnblogs.com/pyyu/p/9467289.html
+龙：http://www.cnblogs.com/DragonFire/default.html
+迭代器：http://www.cnblogs.com/yuanchenqi/articles/5769491.html
+restful：https://www.cnblogs.com/GGGG-XXXX/articles/9258310.html
+Django1.8中文文档 http://shouce.jb51.net/django-chinese-docs-18/13_8_Serialization.html
+Django2.0 https://docs.djangoproject.com/zh-hans/2.0/
+Flask：http://dormousehole.readthedocs.io/en/latest/quickstart.html#debug-mode
+https://www.cnblogs.com/wupeiqi/articles/7552008.html
+图灵机器人：http://www.tuling123.com/member/robot/index.jhtml
+百度AI：http://ai.baidu.com/
+pycharm各版本下载：https://blog.csdn.net/wyx100/article/details/79485192
+python资料：http://blog.jobbole.com/category/python/page/2/
+python中pip的安装	https://blog.csdn.net/qy20115549/article/details/52179800
+python安装和环境配置	http://www.cnblogs.com/oyoui/p/8316949.html
+mysql 安装和环境配置	http://www.jb51.net/article/93134.htm	
+						https://blog.csdn.net/hetongun/article/details/77367638 
+						http://www.jb51.net/article/89224.htm http://www.jb51.net/article/93134.htm

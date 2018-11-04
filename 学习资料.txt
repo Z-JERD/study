@@ -1,0 +1,29 @@
+
+轮训：https://www.cnblogs.com/zhaowinter/p/5332681.html
+mysql面试题 https://blog.csdn.net/u013252072/article/details/52912385
+mysql主从分离：https://blog.csdn.net/envon123/article/details/76615059
+mysql练习题：http://www.cnblogs.com/wupeiqi/articles/5729934.html
+python操作excel https://blog.csdn.net/jiang314/article/details/51829144
+JWT https://cnodejs.org/topic/5b0c4a7b8a4f51e140d942fc
+Redis主从同步 https://blog.csdn.net/sk199048/article/details/50725369
+https://mbd.baidu.com/newspage/data/landingshare?pageType=1&isBdboxFrom=1&context=%7B%22nid%22%3A%22news_8747754384743055642%22%2C%22sourceFrom%22%3A%22bjh%22%7D
+https://blog.csdn.net/u010682330/article/details/80548702
+redis面试：https://blog.csdn.net/yajlv/article/details/73467865
+分布式和集群 https://blog.csdn.net/u011991249/article/details/52536559
+消息队列的使用：https://bbs.csdn.net/topics/392169691?page=1
+一致性哈希算法：https://blog.csdn.net/bntX2jSQfEHy7/article/details/79549368
+Nginx：https://blog.csdn.net/shadema/article/details/75949797
+处理静态文件：https://blog.csdn.net/wjy397/article/details/51610872
+高并发：https://blog.csdn.net/sanyaoxu_2/article/details/78992113
+负载均衡：http://developer.51cto.com/art/201609/517313.htm
+django服务器：https://uwsgi-docs-zh.readthedocs.io/zh_CN/latest/tutorials/Django_and_nginx.html
+django数据库配置读写分离：https://blog.csdn.net/ayhan_huang/article/details/78784486
+异步非阻塞：https://blog.csdn.net/hxpjava1/article/details/73076976
+osi七层模型：https://www.2cto.com/net/201309/247111.html
+websocket：https://www.cnblogs.com/fuqiang88/p/5956363.html
+Http：https://www.jianshu.com/p/80e25cb1d81a
+csrf防御：https://blog.csdn.net/stpeace/article/details/53512283
+github：https://blog.csdn.net/Hanani_Jia/article/details/77950594
+公钥私钥：https://blog.csdn.net/baidu_36327010/article/details/78659665
+Django contenttype   https://blog.csdn.net/Ayhan_huang/article/details/78626957
+解决跨域：https://www.cnblogs.com/Neeo/p/7684276.html
