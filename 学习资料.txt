@@ -27,3 +27,12 @@ github：https://blog.csdn.net/Hanani_Jia/article/details/77950594
 公钥私钥：https://blog.csdn.net/baidu_36327010/article/details/78659665
 Django contenttype   https://blog.csdn.net/Ayhan_huang/article/details/78626957
 解决跨域：https://www.cnblogs.com/Neeo/p/7684276.html
+Windows系统下安装Zookeeper https://blog.csdn.net/love_spinach/article/details/78569373
+zookeeper启动Error https://blog.csdn.net/vtopqx/article/details/78815482
+Kazoo去增删改查zookeeper http://blog.51cto.com/chenx1242/2053627
+win7 如何安装配置java环境，JDK https://jingyan.baidu.com/article/e8cdb32b2699cb37042bad59.html
+干净卸载mysql https://blog.csdn.net/cxy_summer/article/details/70142322
+Django、MySQL开发WEB项目防止中文乱码  https://blog.csdn.net/komtao520/article/details/51773386
+mysql安装图解  https://www.cnblogs.com/liutengfei/p/4162441.html
+云ECS服务器上安装mysql 5.6  https://blog.csdn.net/formelo/article/details/79255353
+Mysql 无法输入中文错误  https://blog.csdn.net/LIUSHAO123456789/article/details/79687263
